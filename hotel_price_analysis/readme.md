@@ -1,10 +1,10 @@
 # Hotel Room Price Analysis
 
 ### Contents
-1. [Objectives](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/README.md#objectives)
-2. [Data](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/README.md#data)
-3. [Method and Tools Used](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/README.md#method-and-tools-used)
-4. [Conclusions](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/README.md#conclusions)<br />
+1. [Objectives](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#objectives)
+2. [Data](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#data)
+3. [Method and Tools Used](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#method-and-tools-used)
+4. [Conclusions](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#conclusions)<br />
 
 
 ### Objectives
