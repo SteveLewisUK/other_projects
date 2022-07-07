@@ -1,10 +1,10 @@
 # Hotel Room Price Analysis
 
 ### Contents
-1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#objectives)
-2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#data)
-3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#method-and-tools-used)
-4. [Conclusions](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#conclusions)<br />
+1. [Objectives](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#objectives)
+2. [Data](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#data)
+3. [Method and Tools Used](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#method-and-tools-used)
+4. [Conclusions](https://github.com/SteveLewisUK/other_projects/edit/main/hotel_price_analysis/readme.md#conclusions)<br />
 
 
 ### Objectives
@@ -38,7 +38,7 @@ There were 5 datasets which, when concatenated, had a totoal of 49,064 rows.<br 
 ***Step 2***: Exploratory Analysis: Gaining insights using line plots, bar charts, boxplots, histograms and pie charts.\
 ***Step 3***: Created new date features to explore further the relationship between price and the length of time before check-in. Created for-loop to plot multiple scatter plots with best-fit straight line.\
 ***Step 4***: Fitting best-fit polynomial regression models the the plots with 2,3 and 4 degrees of freedom.\
-***Step 5***: Investigated the usefulness of building models (Linear and Random Forest Regression) to predict price movements. Encoded categorical variables.\
+***Step 5***: Investigated the usefulness of building models (Linear and Random Forest Regression) to predict price movements. Encoded categorical variables.
 
 
 ### Conclusions
